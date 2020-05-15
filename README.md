@@ -16,10 +16,10 @@ Cisco Port Extractor - Used to extract L2 switchport information and export into
 ### Usage
 
 Single input file  
-`python confextract.py -i input-a -o output.xlsx`
+`python portextract.py -i input-a -o output.xlsx`
 
 Multiple input files  
-`python confextract.py -i input-a, input-b -o output.xlsx`
+`python portextract.py -i input-a, input-b -o output.xlsx`
   
 ### Roadmap 
 
