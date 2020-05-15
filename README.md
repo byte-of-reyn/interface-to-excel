@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Name
 
 Short introduction or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
@@ -52,3 +53,14 @@ Let people know how they can dive into the project, include important links to t
 ## License
 
 A short snippet describing the license ([MIT](http://opensource.org/licenses/mit-license.php), [Apache](http://opensource.org/licenses/Apache-2.0), etc.)
+=======
+# Cisco Switchport Extractor
+Script to extract L2 switchport details from a Cisco device configuration backup.  
+
+# Limitations
+Support for L2 configuration only from Cisco devices  
+Cisco device based configuration only  
+
+# Usage
+The script can take multiple input files using a comma delimeter.    
+>>>>>>> 458efbc2fd6938b7526b97f8376c4e4df842597d
