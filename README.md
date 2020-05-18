@@ -1,6 +1,6 @@
 # PortExtract
 
-Cisco Port Extractor - Used to extract L2 switchport information and export into an easily readable spreadsheet.
+Cisco Port Extractor - Parse L2 switchport information, from running-config file/s, and export into an easily readable spreadsheet.
   
 ### Requirements
 
