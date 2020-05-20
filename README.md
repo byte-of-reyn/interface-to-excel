@@ -4,8 +4,11 @@ Cisco Port Extractor - Parse L2 switchport information, from running-config file
   
 ### Requirements
 
+* Python3
+* Microsoft Excel2016
 * [xlsxwriter](https://github.com/jmcnamara/XlsxWriter)
-  
+
+
 ### Getting Started
 
 1. Clone the repo  
