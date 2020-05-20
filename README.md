@@ -14,8 +14,8 @@ Cisco Port Extractor - Parse L2 switchport information, from running-config file
 
 2. Install library requirements  
 
-`python -m pip install requirements.txt`
-  
+`python -m pip install -r requirements.txt`
+
 ### Usage
 
 Single input file  
